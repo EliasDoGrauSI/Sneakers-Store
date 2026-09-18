@@ -1,0 +1,25 @@
+:root {
+  /* Paleta — quadra de asfalto e taco de madeira */
+  --color-asphalt: #1c1b19;
+  --color-asphalt-soft: #262421;
+  --color-chalk: #f4efe4;
+  --color-wood: #c99a58;
+  --color-orange: #e8590c;
+  --color-orange-deep: #b8440a;
+  --color-line-red: #b0262c;
+  --color-grey: #8a8478;
+
+  /* Tipografia */
+  --font-display: 'Anton', sans-serif;
+  --font-body: 'Work Sans', sans-serif;
+
+  /* Espaçamento */
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 40px;
+  --space-5: 64px;
+  --space-6: 96px;
+
+  --content-width: 1180px;
+}
